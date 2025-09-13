@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> my first jenkins CI/CD Project. I am confident to say. I have completed jenkins CI/CD handson practice </h1>
+         <h1> my first jenkins CI/CD Project. I am confident to say. I have completed jenkins CI/CD handson practice with Devpos </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
